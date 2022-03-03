@@ -5,4 +5,4 @@ BFGB
 VDSVCDS
 fd
 fdcds
-cd hotfix test
+cd master test
